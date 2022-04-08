@@ -10,5 +10,5 @@ class Calculator {
   void telPhone(String phoneNumer){
     launch('tel:$phoneNumer');
   }
-  
+
 }
