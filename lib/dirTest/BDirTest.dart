@@ -1,3 +1,5 @@
+library testpkg_theme;
+
 import 'package:flutter/material.dart';
 
 class BDirTest{
