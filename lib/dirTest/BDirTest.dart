@@ -6,6 +6,6 @@ class BDirTest{
   }
 
   Widget getImageWidget(){
-    return  Image.asset('static/images/manager_test_pkg.png', height: 24, width: 24, fit: BoxFit.fill);
+    return  Image.asset('static/imagexx/manager_test_pkg.png', height: 24, width: 24, fit: BoxFit.fill);
   }
 }
